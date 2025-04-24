@@ -1,4 +1,4 @@
-package com.example.caramaxsample.ui.theme
+package com.example.caramaxsample
 
 import android.content.ContentValues
 import android.content.Context

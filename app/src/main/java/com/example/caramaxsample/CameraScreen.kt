@@ -8,8 +8,6 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.viewinterop.AndroidView
-import com.example.caramaxsample.ui.theme.CameraController
-import com.example.caramaxsample.ui.theme.rememberCameraController
 
 @Composable
 fun CameraScreen(
