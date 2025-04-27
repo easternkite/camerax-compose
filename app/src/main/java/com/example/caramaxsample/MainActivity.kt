@@ -32,7 +32,6 @@ class MainActivity : ComponentActivity() {
             isPermissionGranted = true
         }
 
-        Log.d("dydydydy", allPermissionGranted().toString())
         enableEdgeToEdge()
         setContent {
             CaramaXSampleTheme {
