@@ -6,6 +6,5 @@
 * https://developer.android.com/codelabs/camerax-getting-started?hl=ko#0
 * https://easternkite.medium.com/building-a-simple-camera-app-using-jetpack-compose-and-camerax-b7ddd858794e
 
-<img src="https://github.com/user-attachments/assets/a5a6eede-9eed-4cea-9806-c968b3bd40ca" width=300/>
-
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*b2ygWFeI-UCOdASm.png" width=300/>
   
